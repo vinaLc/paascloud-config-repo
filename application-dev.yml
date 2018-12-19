@@ -50,7 +50,7 @@ spring:
       mail:
         debug: true
         smtp:
-          auth: true
+          auth: false
           connectiontimeout: 10000
           timeout: 10000
           writetimeout: 10000
